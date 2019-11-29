@@ -84,3 +84,4 @@ target/
 
 # Symbolic link
 kernels/input
+.python-version
